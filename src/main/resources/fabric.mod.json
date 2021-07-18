@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "ostoverhaul",
+  "version": "${version}",
+  "name": "Ost Overhaul",
+  "description": "Overhauls the in game music",
+  "authors": [
+    {
+      "name": "GlowSand",
+      "contact": {
+        "discord": "https://www.discord.gg/pj6UVNEZtE"
+      }
+    }
+  ],
+  "contact": {
+    "sources": "https://github.com/GlowSand/ostoverhaul",
+    "discord": "https://www.discord.gg/pj6UVNEZtE",
+    "twitter": "https://twitter.com/_glowsand"
+  },
+  "icon": "assets/ostoverhaul/icon.png",
+  "environment": "*",
+  "license": "MIT",
+  "entrypoints": {
+    "client": [
+      "glowsand.ostoverhaul.client.OstOverhaulClient"
+    ],
+    "main": [
+      "glowsand.ostoverhaul.OstOverhaul"
+    ]
+  },
+  "mixins": [
+    "ostOverhaul.mixins.json"
+  ],
+  "depends": {
+    "fabric": "*",
+    "minecraft": "*"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.discord": "https://www.discord.gg/pj6UVNEZtE",
+        "modmenu.twitter": "https://twitter.com/_glowsand",
+        "modmenu.youtube": "https://www.youtube.com/channel/UCzjtRP_i0WkikO-fGb6JtZA"
+      }
+    }
+  }
+}

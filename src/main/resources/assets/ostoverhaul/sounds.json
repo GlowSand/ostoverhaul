@@ -1,0 +1,108 @@
+{
+  "weird_realm": {
+    "sounds": [
+      {
+        "name": "ostoverhaul:records/weird_realm_toastdot39",
+        "stream": true
+      }
+    ]
+  },
+  "as_above_so_below": {
+    "sounds": [
+      {
+        "name": "ostoverhaul:music/as_above_so_below",
+        "stream": true
+      }
+    ]
+  },
+  "shock": {
+    "sounds": [
+      {
+        "name": "ostoverhaul:records/shock_maple_mickey",
+        "stream": true
+      }
+    ]
+  },
+  "claustrophobic": {
+    "sounds": [
+      {
+        "name": "ostoverhaul:music/lush",
+        "stream": true
+      },
+      {
+        "name": "ostoverhaul:music/underground",
+        "stream": true
+      },
+      {
+        "name": "ostoverhaul:music/depths",
+        "stream": true
+      },
+      {
+        "name": "ostoverhaul:music/deepstate",
+        "stream": true
+      },
+      {
+        "name": "ostoverhaul:music/thewardendepth",
+        "stream": true
+      },
+      {
+        "name": "ostoverhaul:music/remember",
+        "stream": true
+      }
+    ]
+  },
+  "frosty": {
+    "sounds": [
+      {
+      "name": "ostoverhaul:music/fall",
+        "stream": true
+      },
+      {
+        "name": "ostoverhaul:music/lost_care",
+        "stream": true
+      },
+      {
+        "name": "ostoverhaul:music/ice",
+        "stream": true
+      },
+      {
+        "name": "ostoverhaul:music/quiet",
+        "stream": true
+      },
+      {
+        "name": "ostoverhaul:music/sheep_shuffle",
+        "stream": true
+      },
+      {
+        "name": "ostoverhaul:music/coldrave",
+        "stream": true
+      },
+      {
+        "name": "ostoverhaul:music/cradle",
+        "stream": true
+      }
+    ]
+  },
+  "remnant": {
+    "sounds": [
+      {
+        "name": "ostoverhaul:music/remnant",
+        "stream": true
+      }
+    ]
+  },
+  "withering_charge": {
+    "sounds": [
+      {
+        "name": "ostoverhaul:music/withering_charge"
+      }
+    ]
+  },
+  "withering": {
+    "sounds": [
+      {
+        "name": "ostoverhaul:music/withering"
+      }
+    ]
+  }
+}
