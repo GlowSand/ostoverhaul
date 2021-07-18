@@ -1,0 +1,50 @@
+{
+  "music.game": {
+    "sounds": [
+      {
+        "name": "music/game/creative/creative1",
+        "stream": true
+      },
+      {
+        "name": "music/game/creative/creative2",
+        "stream": true
+      },
+      {
+        "name": "music/game/creative/creative3",
+        "stream": true
+      },
+      {
+        "name": "music/game/creative/creative4",
+        "stream": true
+      },
+      {
+        "name": "music/game/creative/creative5",
+        "stream": true
+      },
+      {
+        "name": "music/game/creative/creative6",
+        "stream": true
+      },
+      {
+        "name": "ostoverhaul:music/814",
+        "stream": true
+      }
+    ]
+  },
+  "music.end": {
+    "sounds": [
+      {
+        "name": "ostoverhaul:music/voide",
+        "stream": true
+      }
+    ]
+  },
+  "music.nether.warped_forest": {
+    "sounds":[
+      {
+        "name": "ostoverhaul:music/prophet",
+        "stream": true
+      }
+    ]
+  }
+}
